@@ -29,6 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos diários.
 
+- [Visite o projeto online](https://jeffersonandradee.github.io/nlw-setup-habits/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/0r5d41s1zTywaNpEElQnoF/Habits-(e)-(Community)?node-id=75%3A128&t=NICV5avqyiCqKtJj-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
