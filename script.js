@@ -21,12 +21,6 @@ function save() {
   localStorage.setItem("NLWSetup@habits", JSON.stringify(nlwSetup.data))
 }
 
-/* //const data = {
-  run: ["01-22", "01-23", "01-24"],
-  reading: ["01-22", "01-23"],
-  takePills: ["01-24", "01-25", "01-26"],
-} */
-
 const data = JSON.parse(localStorage.getItem("NLWSetup@habits")) || {}
 nlwSetup.setData(data)
 nlwSetup.load()
