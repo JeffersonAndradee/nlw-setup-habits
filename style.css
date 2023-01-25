@@ -39,10 +39,11 @@ button {
   line-height: 125%;
 }
 
-button div:hover {
+button:hover {
   color: #8b5cf6;
   text-decoration: underline;
   cursor: pointer;
+  font-size: 17px;
 }
 
 form {
