@@ -39,6 +39,12 @@ button {
   line-height: 125%;
 }
 
+button div:hover {
+  color: #8b5cf6;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 form {
   display: flex;
 
